@@ -19,7 +19,7 @@
 
 ## Links
  - Website: https://zkos.ai
- - X: https://x.com/zkOSAI
- - Telegram: https://t.me/zkOSAI
+ - X: https://x.com/zkOS_AI
+ - Telegram: https://t.me/zkOS_AI
  - Discord: https://discord.gg/zkOSAI
  - Documentation: https://docs.zkos.ai
